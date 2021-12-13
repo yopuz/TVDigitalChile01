@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>dvb-t://frequency=533142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Canal 13 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>program=35872</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=533142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>13.2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>program=35873</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=533142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>CANAL 13 MOVIL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>program=36280</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=545142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>BIO BIO TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=545142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>BioBio Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>program=59</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=551142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>MEGA HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=551142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>MEGA HD 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=551142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>MEGA MOVIL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=557142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>La Red HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=557142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>La Red SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=557142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>La Red Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=563142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=563142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TVMAS2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=563142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>UCVTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>program=34</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=563142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV+ 1seg</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=569142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>CHV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>program=59200</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=569142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>UChileTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>program=59201</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=569142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>CHV MOVIL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>program=59224</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=575142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Telecanal HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=575142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TC_One Seg</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=587142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TVN HD1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>program=224</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=587142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>NTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>program=225</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=587142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>program=248</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=599142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Enlacebpb</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=599142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Enlace Joven</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=599142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Nuevos Comienzos</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>program=34</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=599142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Enlace Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=605142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TVR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=605142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TEVEX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=605142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>UNIFE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>program=34</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=605142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>UESTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>program=35</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=605142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TVR Movil </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=617142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV America HD1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>program=7104</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=617142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV America HD2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>program=7105</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=617142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV America HD3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>program=7106</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=617142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>TV America 1s</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>program=7128</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=629142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Nuevo Tiempo HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>program=7168</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=629142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Nuevo Tiempo SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>program=7169</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=629142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Radio Nuevo Tiempo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>program=7170</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=629142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Nuevo Tiempo Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>program=7192</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=689142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>STGO.TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>program=32000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=689142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>STGO.TV-Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>program=32024</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=689142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>Radio USACH</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>program=32001</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=695142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>WappTV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=695142857:inversion=0:bandwidth=6:code-rate-hp=:code-rate-lp=:modulation=QAM:transmission=-1:guard=:hierarchy=0</location>
+			<title>WappTV Movil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>program=56</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+	</extension>
+</playlist>
